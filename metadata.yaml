@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6257'
     url: http://www.gutenberg.org/2009/agents/6257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20361#The-Voice-of-the-MachinesAn-Introduction-to-the-Twentieth-Century
 gutenberg_issued: '2007-01-15'
 gutenberg_type: Text
 identifiers:
